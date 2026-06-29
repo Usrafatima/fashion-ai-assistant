@@ -66,7 +66,7 @@ An AI-powered virtual sales assistant for fashion and clothing brands that autom
 
 ## Frontend
 
-* React.js
+* Next.js
 * Tailwind CSS
 
 ## Backend
@@ -83,7 +83,7 @@ An AI-powered virtual sales assistant for fashion and clothing brands that autom
 
 * Google Gemini 1.5 Flash
 
-## Automation (Optional)
+## Automation
 
 * n8n
 
@@ -220,22 +220,6 @@ GEMINI_API_KEY=your_gemini_api_key
 * Sales Analytics Dashboard
 * Multi-Brand Support
 * Website Chat Widget
-
----
-
-# Team Roles
-
-| Role                   | Responsibility                         |
-| ---------------------- | -------------------------------------- |
-| Database Designer      | Database schema and MongoDB            |
-| Backend Developer      | APIs and business logic                |
-| AI Developer           | Gemini AI integration                  |
-| Prompt Engineer        | AI prompts and response optimization   |
-| WhatsApp Specialist    | WhatsApp automation                    |
-| Instagram Specialist   | Instagram DM automation                |
-| Frontend Developer     | Admin dashboard and UI                 |
-| Tester & Documentation | Testing, bug fixing, and documentation |
-
 
 
 # License
