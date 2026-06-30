@@ -167,12 +167,12 @@ npm install
 Run the application
 
 ```bash
-npm start
+npm run dev
 ```
 
 ---
 
-# n8n Setup (Optional)
+# n8n Setup
 
 Run n8n using Docker
 
